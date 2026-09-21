@@ -11,6 +11,12 @@ This project implements a compact BERT architecture and pre-trains it using:
 
 The project is designed to understand and experiment with the BERT pretraining process using a smaller model.
 
+## Pretrained Model
+
+The trained model is available on Hugging Face:
+
+🤗 **[Thamo31/MiniEmbedding](https://huggingface.co/Thamo31/MiniEmbedding)**
+
 ## Model Configuration
 
 | Parameter           | Value |
@@ -63,12 +69,6 @@ Open and run:
 ```text
 Micro_Bert.ipynb
 ```
-
-## Pretrained Model
-
-The trained model is available on Hugging Face:
-
-🤗 **[Thamo31/MiniEmbedding](https://huggingface.co/Thamo31/MiniEmbedding)**
 
 ## Author
 
