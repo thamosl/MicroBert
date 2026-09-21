@@ -9,7 +9,7 @@ This project implements a compact BERT architecture and pre-trains it using:
 * **Masked Language Modeling (MLM)**
 * **Next Sentence Prediction (NSP)**
 
-The goal is to understand and experiment with the BERT pretraining process using a smaller model.
+The project is designed to understand and experiment with the BERT pretraining process using a smaller model.
 
 ## Model Configuration
 
@@ -52,23 +52,25 @@ Saved Model
 
 ## Run the Project
 
-Install the dependencies:
+Install the required packages:
 
 ```bash
 pip install torch transformers datasets huggingface_hub
 ```
 
-Then open and run:
+Open and run:
 
 ```text
 Micro_Bert.ipynb
 ```
 
-## Model
+## Pretrained Model
 
-The trained model can be saved locally and uploaded to the Hugging Face Hub for later use.
+The trained model is available on Hugging Face:
+
+🤗 **[Thamo31/MiniEmbedding](https://huggingface.co/Thamo31/MiniEmbedding)**
 
 ## Author
 
 **Thamotharan**
-**tharanthamo018@gmail.com
+AI & Data Science
